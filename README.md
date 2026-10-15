@@ -1,2 +1,2 @@
-# Eva2
-Python cambio mi vida
+#Python cambio mi vida
+#Hay que dividir el trabajo en partes y basado en la primera eva 
