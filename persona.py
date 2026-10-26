@@ -1,4 +1,4 @@
-###Persona
+#Persona
 #- id int
 #- nombre string
 #- rut string
